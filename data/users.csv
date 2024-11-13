@@ -1,0 +1,1001 @@
+User-ID;Location;Age
+1;Sydney, Australia;67.0
+2;Tokyo, Japan;19.0
+3;London, UK;59.0
+4;Berlin, Germany;47.0
+5;Sydney, Australia;
+6;London, UK;70.0
+7;London, UK;45.0
+8;Berlin, Germany;80.0
+9;Berlin, Germany;75.0
+10;London, UK;30.0
+11;Sydney, Australia;19.0
+12;Berlin, Germany;76.0
+13;London, UK;59.0
+14;Sydney, Australia;20.0
+15;Paris, France;24.0
+16;Paris, France;36.0
+17;Paris, France;75.0
+18;London, UK;
+19;Paris, France;36.0
+20;London, UK;
+21;Tokyo, Japan;55.0
+22;Tokyo, Japan;19.0
+23;New York, USA;27.0
+24;London, UK;33.0
+25;Paris, France;57.0
+26;Paris, France;48.0
+27;Sydney, Australia;30.0
+28;Sydney, Australia;28.0
+29;Sydney, Australia;50.0
+30;Berlin, Germany;33.0
+31;London, UK;60.0
+32;Sydney, Australia;22.0
+33;New York, USA;18.0
+34;New York, USA;52.0
+35;Tokyo, Japan;21.0
+36;Tokyo, Japan;75.0
+37;Paris, France;38.0
+38;New York, USA;31.0
+39;New York, USA;19.0
+40;London, UK;69.0
+41;New York, USA;67.0
+42;Paris, France;39.0
+43;Sydney, Australia;48.0
+44;New York, USA;72.0
+45;Tokyo, Japan;19.0
+46;Sydney, Australia;24.0
+47;Berlin, Germany;48.0
+48;Sydney, Australia;64.0
+49;Sydney, Australia;
+50;London, UK;
+51;Paris, France;43.0
+52;New York, USA;73.0
+53;Tokyo, Japan;
+54;Sydney, Australia;60.0
+55;Paris, France;65.0
+56;New York, USA;34.0
+57;Sydney, Australia;73.0
+58;New York, USA;42.0
+59;Sydney, Australia;48.0
+60;Paris, France;20.0
+61;Paris, France;68.0
+62;Berlin, Germany;78.0
+63;Berlin, Germany;38.0
+64;Tokyo, Japan;40.0
+65;Tokyo, Japan;53.0
+66;Berlin, Germany;62.0
+67;Paris, France;50.0
+68;Berlin, Germany;22.0
+69;Berlin, Germany;26.0
+70;Tokyo, Japan;65.0
+71;Paris, France;72.0
+72;Berlin, Germany;51.0
+73;Sydney, Australia;59.0
+74;Berlin, Germany;60.0
+75;Paris, France;30.0
+76;London, UK;35.0
+77;Sydney, Australia;50.0
+78;New York, USA;25.0
+79;Berlin, Germany;52.0
+80;Tokyo, Japan;31.0
+81;London, UK;26.0
+82;Berlin, Germany;32.0
+83;London, UK;25.0
+84;Tokyo, Japan;73.0
+85;Berlin, Germany;25.0
+86;Sydney, Australia;71.0
+87;London, UK;42.0
+88;London, UK;66.0
+89;New York, USA;55.0
+90;Tokyo, Japan;43.0
+91;London, UK;
+92;New York, USA;19.0
+93;New York, USA;69.0
+94;London, UK;46.0
+95;Tokyo, Japan;27.0
+96;London, UK;32.0
+97;Tokyo, Japan;40.0
+98;London, UK;20.0
+99;Berlin, Germany;80.0
+100;London, UK;24.0
+101;Berlin, Germany;
+102;Paris, France;34.0
+103;Berlin, Germany;53.0
+104;London, UK;72.0
+105;New York, USA;32.0
+106;Berlin, Germany;73.0
+107;Tokyo, Japan;27.0
+108;Sydney, Australia;80.0
+109;Berlin, Germany;43.0
+110;Sydney, Australia;27.0
+111;New York, USA;53.0
+112;Paris, France;50.0
+113;Berlin, Germany;18.0
+114;Tokyo, Japan;23.0
+115;Berlin, Germany;76.0
+116;New York, USA;25.0
+117;London, UK;25.0
+118;New York, USA;51.0
+119;London, UK;41.0
+120;Berlin, Germany;
+121;Sydney, Australia;31.0
+122;Paris, France;23.0
+123;Tokyo, Japan;61.0
+124;Paris, France;21.0
+125;Tokyo, Japan;30.0
+126;Paris, France;72.0
+127;Tokyo, Japan;25.0
+128;Berlin, Germany;80.0
+129;Paris, France;
+130;Sydney, Australia;50.0
+131;London, UK;25.0
+132;Sydney, Australia;
+133;Tokyo, Japan;
+134;Berlin, Germany;44.0
+135;New York, USA;71.0
+136;Paris, France;37.0
+137;Tokyo, Japan;35.0
+138;London, UK;33.0
+139;Berlin, Germany;
+140;Paris, France;60.0
+141;Berlin, Germany;46.0
+142;London, UK;18.0
+143;Paris, France;69.0
+144;London, UK;68.0
+145;London, UK;
+146;Berlin, Germany;23.0
+147;New York, USA;
+148;New York, USA;36.0
+149;Paris, France;63.0
+150;Berlin, Germany;39.0
+151;Paris, France;
+152;Paris, France;24.0
+153;New York, USA;19.0
+154;Paris, France;18.0
+155;Berlin, Germany;51.0
+156;Berlin, Germany;23.0
+157;Tokyo, Japan;66.0
+158;London, UK;76.0
+159;Paris, France;61.0
+160;Tokyo, Japan;58.0
+161;London, UK;76.0
+162;London, UK;25.0
+163;New York, USA;
+164;London, UK;70.0
+165;Sydney, Australia;20.0
+166;London, UK;61.0
+167;London, UK;64.0
+168;Sydney, Australia;39.0
+169;New York, USA;32.0
+170;London, UK;26.0
+171;New York, USA;20.0
+172;Sydney, Australia;63.0
+173;Berlin, Germany;26.0
+174;New York, USA;28.0
+175;Berlin, Germany;
+176;Tokyo, Japan;64.0
+177;Sydney, Australia;30.0
+178;Berlin, Germany;53.0
+179;Berlin, Germany;41.0
+180;Tokyo, Japan;67.0
+181;Paris, France;79.0
+182;Sydney, Australia;63.0
+183;Sydney, Australia;31.0
+184;Paris, France;70.0
+185;Berlin, Germany;44.0
+186;Sydney, Australia;34.0
+187;New York, USA;33.0
+188;London, UK;74.0
+189;Sydney, Australia;66.0
+190;New York, USA;58.0
+191;New York, USA;
+192;Tokyo, Japan;25.0
+193;London, UK;21.0
+194;Sydney, Australia;51.0
+195;New York, USA;65.0
+196;Sydney, Australia;45.0
+197;Tokyo, Japan;37.0
+198;New York, USA;62.0
+199;Sydney, Australia;26.0
+200;Berlin, Germany;48.0
+201;Berlin, Germany;41.0
+202;Tokyo, Japan;21.0
+203;Berlin, Germany;44.0
+204;London, UK;33.0
+205;Tokyo, Japan;72.0
+206;New York, USA;54.0
+207;Tokyo, Japan;47.0
+208;London, UK;63.0
+209;New York, USA;44.0
+210;Berlin, Germany;77.0
+211;Paris, France;51.0
+212;Paris, France;30.0
+213;London, UK;41.0
+214;New York, USA;25.0
+215;Sydney, Australia;77.0
+216;Berlin, Germany;34.0
+217;Berlin, Germany;42.0
+218;London, UK;54.0
+219;Sydney, Australia;24.0
+220;London, UK;43.0
+221;Paris, France;68.0
+222;Tokyo, Japan;79.0
+223;Sydney, Australia;18.0
+224;Tokyo, Japan;65.0
+225;London, UK;29.0
+226;Berlin, Germany;
+227;Paris, France;
+228;Paris, France;60.0
+229;Sydney, Australia;49.0
+230;Tokyo, Japan;79.0
+231;Sydney, Australia;47.0
+232;Sydney, Australia;77.0
+233;New York, USA;37.0
+234;Tokyo, Japan;29.0
+235;New York, USA;23.0
+236;Sydney, Australia;41.0
+237;London, UK;27.0
+238;Sydney, Australia;
+239;London, UK;68.0
+240;New York, USA;69.0
+241;New York, USA;62.0
+242;London, UK;69.0
+243;London, UK;39.0
+244;Paris, France;57.0
+245;Berlin, Germany;65.0
+246;Tokyo, Japan;62.0
+247;New York, USA;21.0
+248;Tokyo, Japan;69.0
+249;Berlin, Germany;34.0
+250;Berlin, Germany;58.0
+251;Paris, France;19.0
+252;London, UK;77.0
+253;New York, USA;32.0
+254;London, UK;34.0
+255;London, UK;62.0
+256;Sydney, Australia;77.0
+257;New York, USA;
+258;Tokyo, Japan;
+259;New York, USA;21.0
+260;New York, USA;
+261;Berlin, Germany;31.0
+262;New York, USA;
+263;Tokyo, Japan;70.0
+264;Sydney, Australia;73.0
+265;Tokyo, Japan;68.0
+266;Berlin, Germany;48.0
+267;Berlin, Germany;76.0
+268;Berlin, Germany;72.0
+269;Paris, France;24.0
+270;Tokyo, Japan;66.0
+271;Berlin, Germany;27.0
+272;Paris, France;61.0
+273;Paris, France;78.0
+274;Paris, France;18.0
+275;Berlin, Germany;21.0
+276;Sydney, Australia;29.0
+277;Paris, France;
+278;Tokyo, Japan;23.0
+279;London, UK;68.0
+280;Tokyo, Japan;46.0
+281;Berlin, Germany;73.0
+282;Tokyo, Japan;56.0
+283;Sydney, Australia;56.0
+284;Tokyo, Japan;71.0
+285;Paris, France;68.0
+286;Sydney, Australia;44.0
+287;New York, USA;
+288;Berlin, Germany;
+289;New York, USA;75.0
+290;Paris, France;37.0
+291;Sydney, Australia;54.0
+292;Berlin, Germany;70.0
+293;London, UK;49.0
+294;Tokyo, Japan;59.0
+295;New York, USA;50.0
+296;Berlin, Germany;56.0
+297;Sydney, Australia;23.0
+298;Paris, France;30.0
+299;New York, USA;49.0
+300;Berlin, Germany;30.0
+301;New York, USA;36.0
+302;Paris, France;40.0
+303;New York, USA;27.0
+304;London, UK;69.0
+305;Paris, France;28.0
+306;Paris, France;53.0
+307;Paris, France;23.0
+308;Paris, France;69.0
+309;New York, USA;75.0
+310;Paris, France;40.0
+311;Paris, France;56.0
+312;New York, USA;56.0
+313;Sydney, Australia;76.0
+314;Berlin, Germany;31.0
+315;Tokyo, Japan;76.0
+316;Tokyo, Japan;32.0
+317;New York, USA;23.0
+318;Berlin, Germany;52.0
+319;New York, USA;51.0
+320;Berlin, Germany;29.0
+321;London, UK;46.0
+322;Tokyo, Japan;67.0
+323;New York, USA;78.0
+324;Sydney, Australia;48.0
+325;London, UK;72.0
+326;Paris, France;56.0
+327;Berlin, Germany;39.0
+328;Sydney, Australia;
+329;London, UK;47.0
+330;Sydney, Australia;76.0
+331;Tokyo, Japan;23.0
+332;Berlin, Germany;
+333;London, UK;71.0
+334;Paris, France;
+335;Paris, France;46.0
+336;Paris, France;38.0
+337;London, UK;71.0
+338;Paris, France;64.0
+339;London, UK;54.0
+340;Berlin, Germany;30.0
+341;Tokyo, Japan;
+342;Sydney, Australia;
+343;Paris, France;63.0
+344;Tokyo, Japan;
+345;New York, USA;64.0
+346;London, UK;29.0
+347;Tokyo, Japan;54.0
+348;Tokyo, Japan;27.0
+349;Berlin, Germany;
+350;Paris, France;20.0
+351;Berlin, Germany;
+352;New York, USA;33.0
+353;Sydney, Australia;56.0
+354;Paris, France;56.0
+355;Paris, France;79.0
+356;Paris, France;71.0
+357;Berlin, Germany;37.0
+358;Berlin, Germany;34.0
+359;London, UK;47.0
+360;London, UK;18.0
+361;London, UK;31.0
+362;New York, USA;68.0
+363;New York, USA;54.0
+364;London, UK;74.0
+365;New York, USA;57.0
+366;Sydney, Australia;31.0
+367;Berlin, Germany;33.0
+368;London, UK;61.0
+369;New York, USA;48.0
+370;Paris, France;18.0
+371;Tokyo, Japan;59.0
+372;Berlin, Germany;38.0
+373;New York, USA;59.0
+374;New York, USA;51.0
+375;London, UK;48.0
+376;Sydney, Australia;74.0
+377;Sydney, Australia;38.0
+378;Tokyo, Japan;69.0
+379;Tokyo, Japan;72.0
+380;New York, USA;
+381;Sydney, Australia;60.0
+382;New York, USA;
+383;Paris, France;41.0
+384;New York, USA;25.0
+385;Sydney, Australia;36.0
+386;Sydney, Australia;36.0
+387;New York, USA;50.0
+388;Tokyo, Japan;
+389;New York, USA;26.0
+390;Berlin, Germany;18.0
+391;Berlin, Germany;46.0
+392;Paris, France;33.0
+393;Sydney, Australia;23.0
+394;New York, USA;19.0
+395;London, UK;66.0
+396;New York, USA;19.0
+397;Sydney, Australia;21.0
+398;New York, USA;62.0
+399;New York, USA;33.0
+400;New York, USA;55.0
+401;Sydney, Australia;78.0
+402;Berlin, Germany;20.0
+403;Tokyo, Japan;73.0
+404;Berlin, Germany;63.0
+405;Berlin, Germany;38.0
+406;Tokyo, Japan;
+407;Berlin, Germany;50.0
+408;Paris, France;74.0
+409;Tokyo, Japan;79.0
+410;Paris, France;
+411;New York, USA;62.0
+412;Tokyo, Japan;75.0
+413;Paris, France;
+414;Sydney, Australia;35.0
+415;Sydney, Australia;
+416;London, UK;54.0
+417;New York, USA;27.0
+418;Berlin, Germany;39.0
+419;Berlin, Germany;23.0
+420;New York, USA;44.0
+421;Berlin, Germany;24.0
+422;Berlin, Germany;22.0
+423;London, UK;20.0
+424;Tokyo, Japan;74.0
+425;Sydney, Australia;58.0
+426;London, UK;75.0
+427;London, UK;40.0
+428;Berlin, Germany;57.0
+429;Berlin, Germany;77.0
+430;London, UK;40.0
+431;London, UK;
+432;Berlin, Germany;47.0
+433;London, UK;30.0
+434;London, UK;48.0
+435;New York, USA;41.0
+436;Paris, France;73.0
+437;New York, USA;22.0
+438;Tokyo, Japan;72.0
+439;Berlin, Germany;57.0
+440;London, UK;51.0
+441;New York, USA;55.0
+442;Paris, France;39.0
+443;Paris, France;66.0
+444;Tokyo, Japan;55.0
+445;Paris, France;33.0
+446;London, UK;38.0
+447;Tokyo, Japan;28.0
+448;London, UK;44.0
+449;New York, USA;29.0
+450;Sydney, Australia;
+451;London, UK;54.0
+452;London, UK;40.0
+453;Berlin, Germany;41.0
+454;Paris, France;32.0
+455;Tokyo, Japan;
+456;Paris, France;37.0
+457;Berlin, Germany;23.0
+458;Sydney, Australia;67.0
+459;Berlin, Germany;20.0
+460;London, UK;22.0
+461;Sydney, Australia;56.0
+462;New York, USA;41.0
+463;Sydney, Australia;35.0
+464;Paris, France;70.0
+465;London, UK;50.0
+466;New York, USA;43.0
+467;New York, USA;75.0
+468;New York, USA;69.0
+469;London, UK;22.0
+470;Tokyo, Japan;19.0
+471;Sydney, Australia;41.0
+472;London, UK;35.0
+473;Sydney, Australia;29.0
+474;Sydney, Australia;80.0
+475;Tokyo, Japan;
+476;Sydney, Australia;72.0
+477;Tokyo, Japan;79.0
+478;Sydney, Australia;39.0
+479;Sydney, Australia;77.0
+480;Tokyo, Japan;58.0
+481;Sydney, Australia;19.0
+482;London, UK;19.0
+483;Berlin, Germany;71.0
+484;Berlin, Germany;79.0
+485;New York, USA;30.0
+486;Tokyo, Japan;65.0
+487;Berlin, Germany;77.0
+488;New York, USA;37.0
+489;Berlin, Germany;37.0
+490;New York, USA;62.0
+491;Berlin, Germany;41.0
+492;Paris, France;75.0
+493;New York, USA;25.0
+494;Sydney, Australia;45.0
+495;Berlin, Germany;
+496;Paris, France;46.0
+497;New York, USA;41.0
+498;Sydney, Australia;77.0
+499;London, UK;41.0
+500;Tokyo, Japan;48.0
+501;Tokyo, Japan;47.0
+502;Tokyo, Japan;60.0
+503;London, UK;20.0
+504;New York, USA;35.0
+505;Tokyo, Japan;45.0
+506;London, UK;
+507;Tokyo, Japan;69.0
+508;Sydney, Australia;21.0
+509;London, UK;26.0
+510;Paris, France;42.0
+511;Tokyo, Japan;50.0
+512;Tokyo, Japan;79.0
+513;Berlin, Germany;79.0
+514;New York, USA;69.0
+515;Paris, France;52.0
+516;Paris, France;19.0
+517;Sydney, Australia;71.0
+518;London, UK;
+519;Berlin, Germany;56.0
+520;Berlin, Germany;60.0
+521;London, UK;76.0
+522;Tokyo, Japan;37.0
+523;Sydney, Australia;38.0
+524;Berlin, Germany;48.0
+525;Berlin, Germany;
+526;London, UK;64.0
+527;Berlin, Germany;
+528;London, UK;39.0
+529;Berlin, Germany;54.0
+530;Berlin, Germany;57.0
+531;Berlin, Germany;79.0
+532;Sydney, Australia;
+533;New York, USA;29.0
+534;Paris, France;33.0
+535;New York, USA;25.0
+536;Sydney, Australia;31.0
+537;Berlin, Germany;59.0
+538;Sydney, Australia;42.0
+539;New York, USA;71.0
+540;Paris, France;34.0
+541;Berlin, Germany;47.0
+542;Paris, France;33.0
+543;Berlin, Germany;43.0
+544;Sydney, Australia;79.0
+545;Tokyo, Japan;22.0
+546;London, UK;75.0
+547;Sydney, Australia;55.0
+548;London, UK;54.0
+549;New York, USA;69.0
+550;New York, USA;
+551;London, UK;45.0
+552;New York, USA;47.0
+553;Sydney, Australia;39.0
+554;Sydney, Australia;47.0
+555;Tokyo, Japan;38.0
+556;New York, USA;68.0
+557;Paris, France;47.0
+558;Tokyo, Japan;78.0
+559;London, UK;80.0
+560;London, UK;69.0
+561;Paris, France;74.0
+562;New York, USA;68.0
+563;Berlin, Germany;
+564;Sydney, Australia;30.0
+565;London, UK;47.0
+566;New York, USA;32.0
+567;Sydney, Australia;79.0
+568;London, UK;36.0
+569;New York, USA;66.0
+570;Berlin, Germany;80.0
+571;Sydney, Australia;31.0
+572;Tokyo, Japan;60.0
+573;Berlin, Germany;63.0
+574;Tokyo, Japan;71.0
+575;Sydney, Australia;59.0
+576;New York, USA;40.0
+577;London, UK;63.0
+578;Berlin, Germany;48.0
+579;Paris, France;69.0
+580;Paris, France;77.0
+581;Paris, France;31.0
+582;London, UK;46.0
+583;Tokyo, Japan;
+584;London, UK;59.0
+585;Berlin, Germany;19.0
+586;Paris, France;24.0
+587;Berlin, Germany;26.0
+588;London, UK;62.0
+589;Berlin, Germany;27.0
+590;New York, USA;32.0
+591;New York, USA;33.0
+592;Paris, France;
+593;Sydney, Australia;49.0
+594;Sydney, Australia;23.0
+595;Sydney, Australia;67.0
+596;Tokyo, Japan;72.0
+597;London, UK;47.0
+598;London, UK;23.0
+599;Paris, France;25.0
+600;Tokyo, Japan;76.0
+601;Tokyo, Japan;25.0
+602;Sydney, Australia;54.0
+603;Berlin, Germany;79.0
+604;Paris, France;
+605;London, UK;59.0
+606;Paris, France;64.0
+607;Sydney, Australia;47.0
+608;Berlin, Germany;24.0
+609;Paris, France;68.0
+610;London, UK;26.0
+611;Tokyo, Japan;
+612;Paris, France;80.0
+613;Paris, France;51.0
+614;Berlin, Germany;73.0
+615;London, UK;72.0
+616;London, UK;43.0
+617;Berlin, Germany;36.0
+618;London, UK;54.0
+619;Tokyo, Japan;52.0
+620;New York, USA;51.0
+621;Sydney, Australia;80.0
+622;London, UK;36.0
+623;Tokyo, Japan;27.0
+624;London, UK;36.0
+625;London, UK;53.0
+626;New York, USA;67.0
+627;London, UK;47.0
+628;Paris, France;
+629;Paris, France;37.0
+630;Sydney, Australia;21.0
+631;Tokyo, Japan;23.0
+632;Tokyo, Japan;24.0
+633;Sydney, Australia;34.0
+634;New York, USA;50.0
+635;London, UK;61.0
+636;Tokyo, Japan;34.0
+637;Tokyo, Japan;79.0
+638;Berlin, Germany;65.0
+639;Tokyo, Japan;73.0
+640;London, UK;21.0
+641;London, UK;
+642;London, UK;56.0
+643;Paris, France;41.0
+644;London, UK;76.0
+645;London, UK;42.0
+646;Sydney, Australia;
+647;Tokyo, Japan;48.0
+648;London, UK;30.0
+649;Tokyo, Japan;43.0
+650;Sydney, Australia;39.0
+651;Berlin, Germany;27.0
+652;Berlin, Germany;67.0
+653;Sydney, Australia;54.0
+654;Tokyo, Japan;64.0
+655;London, UK;21.0
+656;London, UK;62.0
+657;New York, USA;
+658;Paris, France;49.0
+659;London, UK;31.0
+660;Sydney, Australia;32.0
+661;Berlin, Germany;29.0
+662;London, UK;22.0
+663;London, UK;49.0
+664;New York, USA;68.0
+665;Tokyo, Japan;52.0
+666;Paris, France;
+667;Sydney, Australia;77.0
+668;Sydney, Australia;59.0
+669;New York, USA;28.0
+670;Sydney, Australia;52.0
+671;New York, USA;36.0
+672;London, UK;63.0
+673;Berlin, Germany;21.0
+674;Sydney, Australia;21.0
+675;Sydney, Australia;71.0
+676;London, UK;72.0
+677;New York, USA;68.0
+678;New York, USA;22.0
+679;Paris, France;19.0
+680;Paris, France;74.0
+681;Tokyo, Japan;69.0
+682;London, UK;43.0
+683;London, UK;45.0
+684;Tokyo, Japan;
+685;New York, USA;79.0
+686;London, UK;54.0
+687;Sydney, Australia;74.0
+688;New York, USA;52.0
+689;Sydney, Australia;29.0
+690;New York, USA;56.0
+691;Tokyo, Japan;45.0
+692;London, UK;
+693;Sydney, Australia;30.0
+694;Tokyo, Japan;49.0
+695;Paris, France;43.0
+696;Berlin, Germany;48.0
+697;Sydney, Australia;40.0
+698;Tokyo, Japan;59.0
+699;Berlin, Germany;66.0
+700;Tokyo, Japan;73.0
+701;Paris, France;21.0
+702;New York, USA;67.0
+703;Sydney, Australia;
+704;Tokyo, Japan;44.0
+705;London, UK;49.0
+706;Tokyo, Japan;38.0
+707;Berlin, Germany;50.0
+708;Paris, France;76.0
+709;Berlin, Germany;75.0
+710;Berlin, Germany;54.0
+711;Sydney, Australia;
+712;London, UK;68.0
+713;Berlin, Germany;
+714;New York, USA;33.0
+715;Berlin, Germany;43.0
+716;London, UK;19.0
+717;Berlin, Germany;52.0
+718;Paris, France;68.0
+719;New York, USA;68.0
+720;Berlin, Germany;53.0
+721;Paris, France;51.0
+722;London, UK;31.0
+723;Berlin, Germany;23.0
+724;Paris, France;35.0
+725;Paris, France;29.0
+726;Tokyo, Japan;70.0
+727;Paris, France;
+728;Paris, France;42.0
+729;Paris, France;24.0
+730;Tokyo, Japan;77.0
+731;Berlin, Germany;29.0
+732;Berlin, Germany;40.0
+733;Berlin, Germany;
+734;Sydney, Australia;27.0
+735;Tokyo, Japan;36.0
+736;Tokyo, Japan;75.0
+737;Berlin, Germany;26.0
+738;Tokyo, Japan;63.0
+739;New York, USA;75.0
+740;New York, USA;72.0
+741;New York, USA;58.0
+742;Sydney, Australia;36.0
+743;Paris, France;24.0
+744;Berlin, Germany;37.0
+745;Paris, France;45.0
+746;Tokyo, Japan;23.0
+747;London, UK;31.0
+748;Sydney, Australia;36.0
+749;Tokyo, Japan;54.0
+750;Berlin, Germany;
+751;Sydney, Australia;37.0
+752;Tokyo, Japan;19.0
+753;Tokyo, Japan;18.0
+754;Berlin, Germany;
+755;Paris, France;28.0
+756;Tokyo, Japan;
+757;Paris, France;57.0
+758;New York, USA;
+759;New York, USA;34.0
+760;Berlin, Germany;22.0
+761;Berlin, Germany;70.0
+762;New York, USA;56.0
+763;Paris, France;31.0
+764;Sydney, Australia;73.0
+765;Berlin, Germany;
+766;Paris, France;42.0
+767;London, UK;45.0
+768;Tokyo, Japan;68.0
+769;Paris, France;74.0
+770;Sydney, Australia;46.0
+771;Berlin, Germany;
+772;Berlin, Germany;56.0
+773;London, UK;30.0
+774;New York, USA;52.0
+775;Tokyo, Japan;37.0
+776;Sydney, Australia;21.0
+777;New York, USA;53.0
+778;London, UK;71.0
+779;London, UK;55.0
+780;Berlin, Germany;57.0
+781;New York, USA;66.0
+782;Berlin, Germany;70.0
+783;Berlin, Germany;
+784;Berlin, Germany;24.0
+785;Paris, France;79.0
+786;Sydney, Australia;26.0
+787;London, UK;63.0
+788;Paris, France;51.0
+789;Berlin, Germany;39.0
+790;Tokyo, Japan;57.0
+791;Tokyo, Japan;58.0
+792;Sydney, Australia;20.0
+793;New York, USA;45.0
+794;New York, USA;34.0
+795;New York, USA;72.0
+796;Paris, France;44.0
+797;London, UK;71.0
+798;Paris, France;36.0
+799;Berlin, Germany;52.0
+800;Paris, France;54.0
+801;New York, USA;
+802;New York, USA;25.0
+803;Berlin, Germany;54.0
+804;Paris, France;50.0
+805;Sydney, Australia;54.0
+806;Berlin, Germany;33.0
+807;Tokyo, Japan;40.0
+808;Paris, France;46.0
+809;London, UK;39.0
+810;New York, USA;74.0
+811;New York, USA;27.0
+812;New York, USA;
+813;Tokyo, Japan;24.0
+814;New York, USA;
+815;Tokyo, Japan;42.0
+816;Tokyo, Japan;68.0
+817;Sydney, Australia;48.0
+818;Berlin, Germany;31.0
+819;London, UK;
+820;London, UK;
+821;Berlin, Germany;39.0
+822;New York, USA;21.0
+823;Berlin, Germany;25.0
+824;Sydney, Australia;68.0
+825;Paris, France;61.0
+826;Sydney, Australia;41.0
+827;London, UK;
+828;Sydney, Australia;66.0
+829;Berlin, Germany;26.0
+830;Tokyo, Japan;70.0
+831;London, UK;59.0
+832;Berlin, Germany;78.0
+833;Berlin, Germany;
+834;London, UK;49.0
+835;Berlin, Germany;29.0
+836;Paris, France;33.0
+837;New York, USA;44.0
+838;Sydney, Australia;39.0
+839;Berlin, Germany;49.0
+840;Berlin, Germany;73.0
+841;Paris, France;47.0
+842;Tokyo, Japan;40.0
+843;New York, USA;69.0
+844;Tokyo, Japan;72.0
+845;Sydney, Australia;62.0
+846;London, UK;34.0
+847;Sydney, Australia;46.0
+848;London, UK;75.0
+849;London, UK;32.0
+850;Berlin, Germany;61.0
+851;Sydney, Australia;27.0
+852;Paris, France;23.0
+853;New York, USA;54.0
+854;New York, USA;32.0
+855;Berlin, Germany;47.0
+856;Berlin, Germany;28.0
+857;New York, USA;65.0
+858;Berlin, Germany;37.0
+859;Paris, France;64.0
+860;London, UK;
+861;London, UK;53.0
+862;Tokyo, Japan;76.0
+863;Berlin, Germany;69.0
+864;London, UK;
+865;London, UK;42.0
+866;Tokyo, Japan;20.0
+867;Sydney, Australia;71.0
+868;Berlin, Germany;79.0
+869;Berlin, Germany;45.0
+870;Paris, France;56.0
+871;Sydney, Australia;34.0
+872;London, UK;76.0
+873;New York, USA;76.0
+874;Sydney, Australia;65.0
+875;New York, USA;29.0
+876;London, UK;32.0
+877;Sydney, Australia;28.0
+878;Berlin, Germany;42.0
+879;Sydney, Australia;70.0
+880;Berlin, Germany;33.0
+881;Sydney, Australia;79.0
+882;Berlin, Germany;50.0
+883;New York, USA;45.0
+884;Paris, France;
+885;Berlin, Germany;47.0
+886;Tokyo, Japan;74.0
+887;Berlin, Germany;40.0
+888;Berlin, Germany;70.0
+889;Paris, France;77.0
+890;New York, USA;45.0
+891;New York, USA;35.0
+892;Sydney, Australia;79.0
+893;Sydney, Australia;38.0
+894;Paris, France;
+895;Paris, France;59.0
+896;New York, USA;27.0
+897;London, UK;27.0
+898;New York, USA;60.0
+899;Tokyo, Japan;26.0
+900;New York, USA;44.0
+901;New York, USA;78.0
+902;Paris, France;32.0
+903;London, UK;80.0
+904;New York, USA;57.0
+905;Paris, France;74.0
+906;Sydney, Australia;64.0
+907;Berlin, Germany;79.0
+908;Paris, France;28.0
+909;Berlin, Germany;28.0
+910;Tokyo, Japan;29.0
+911;London, UK;54.0
+912;Paris, France;48.0
+913;Berlin, Germany;53.0
+914;London, UK;
+915;Sydney, Australia;44.0
+916;London, UK;41.0
+917;London, UK;73.0
+918;London, UK;28.0
+919;London, UK;78.0
+920;Tokyo, Japan;52.0
+921;New York, USA;20.0
+922;Paris, France;
+923;Berlin, Germany;47.0
+924;Paris, France;38.0
+925;Tokyo, Japan;68.0
+926;Sydney, Australia;37.0
+927;Berlin, Germany;34.0
+928;London, UK;44.0
+929;London, UK;40.0
+930;London, UK;24.0
+931;Sydney, Australia;56.0
+932;New York, USA;29.0
+933;Sydney, Australia;44.0
+934;Sydney, Australia;33.0
+935;Paris, France;48.0
+936;Tokyo, Japan;
+937;Sydney, Australia;19.0
+938;Tokyo, Japan;69.0
+939;Tokyo, Japan;22.0
+940;Sydney, Australia;68.0
+941;London, UK;49.0
+942;Berlin, Germany;
+943;London, UK;77.0
+944;Sydney, Australia;77.0
+945;New York, USA;20.0
+946;Tokyo, Japan;56.0
+947;London, UK;38.0
+948;New York, USA;65.0
+949;New York, USA;23.0
+950;New York, USA;29.0
+951;Paris, France;26.0
+952;Sydney, Australia;68.0
+953;London, UK;50.0
+954;Paris, France;32.0
+955;Berlin, Germany;61.0
+956;New York, USA;48.0
+957;London, UK;62.0
+958;New York, USA;47.0
+959;Paris, France;29.0
+960;London, UK;46.0
+961;London, UK;74.0
+962;Sydney, Australia;79.0
+963;Tokyo, Japan;56.0
+964;New York, USA;75.0
+965;Berlin, Germany;19.0
+966;Paris, France;65.0
+967;Sydney, Australia;27.0
+968;Tokyo, Japan;53.0
+969;Sydney, Australia;78.0
+970;London, UK;79.0
+971;Sydney, Australia;55.0
+972;Paris, France;76.0
+973;London, UK;21.0
+974;Tokyo, Japan;67.0
+975;Sydney, Australia;78.0
+976;Paris, France;23.0
+977;Tokyo, Japan;37.0
+978;Sydney, Australia;58.0
+979;Tokyo, Japan;49.0
+980;Paris, France;69.0
+981;Sydney, Australia;64.0
+982;New York, USA;24.0
+983;Paris, France;75.0
+984;Sydney, Australia;66.0
+985;Paris, France;71.0
+986;Paris, France;72.0
+987;Tokyo, Japan;
+988;Tokyo, Japan;44.0
+989;Berlin, Germany;
+990;Sydney, Australia;50.0
+991;Sydney, Australia;43.0
+992;Paris, France;28.0
+993;Sydney, Australia;51.0
+994;New York, USA;30.0
+995;Tokyo, Japan;50.0
+996;New York, USA;40.0
+997;New York, USA;38.0
+998;Berlin, Germany;61.0
+999;London, UK;53.0
+1000;Paris, France;33.0

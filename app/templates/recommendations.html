@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recommendations</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container mt-5">
+    <h2>Recommended Books for You</h2>
+    {% if recommended_books %}
+        <ul class="list-group">
+            {% for book in recommended_books %}
+                <li class="list-group-item">
+                    <strong>{{ book.title }}</strong> by {{ book.author }}
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No recommendations available at this time.</p>
+    {% endif %}
+</div>
+</body>
+</html>
